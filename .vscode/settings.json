@@ -10,7 +10,7 @@
     },
     "python.pythonPath": "api/.venv/bin/python",
     "python.linting.pycodestyleEnabled": true,
-    "python.linting.pycodeStyleArgs": [
+    "python.linting.pycodestyleArgs": [
         "--max-line-length=88"
     ],
     "python.linting.pylintEnabled": true,
