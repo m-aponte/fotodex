@@ -24,6 +24,7 @@ const ImageCard = ({ image, deleteImage, saveImage }) => {
           <Nav.Link href={authorPortfolioURL} target="_blank">
             {authorName}
           </Nav.Link>
+        )}
         {!authorPortfolioURL && authorName}
       </Card.Footer>
     </Card>
